@@ -1,4 +1,4 @@
-MyFirstProgramOnGit
+MyFirstProgrameOnGit
 ===================
 
 Just test.
