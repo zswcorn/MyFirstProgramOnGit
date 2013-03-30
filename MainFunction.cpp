@@ -2,7 +2,7 @@
 
 void main(){
 	string name;
-	name = "W";
+	//name = "W";
 	cin>>name;
 	FirstClass *firstclass = new FirstClass(name);
 	firstclass->Onscreen(name);
